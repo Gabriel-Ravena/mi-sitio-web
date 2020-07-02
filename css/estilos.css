@@ -1,0 +1,26 @@
+.contenido {
+    background:#0D5BC5;
+}
+
+.enlace {
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+.enlace:hover{
+    text-decoration: none;
+    color:#0D5BC5;
+    padding: 25px;
+}
+
+.text-copyright {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.h2-text {
+    padding-bottom: 40px;
+}
